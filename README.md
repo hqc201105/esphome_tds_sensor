@@ -14,5 +14,6 @@
 ![command3](https://github.com/hqc201105/esphome_tds_sensor/assets/84075765/256b87cc-d10d-4485-9297-92a0cb89ed60)
 
 本项目使用esphome的自定义串口设备功能完成，文档可参考：
+
 https://esphome.io/components/uart.html
 https://esphome.io/custom/uart.html
