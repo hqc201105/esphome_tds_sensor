@@ -58,4 +58,4 @@ https://esphome.io/custom/uart.html
 https://esphome.io/components/display/tm1637.html
 
 ### 使用方法：
-将
+将TDSSensor.h放到esphome项目根目录，然后参考tds-esp8266.yaml编程
