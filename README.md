@@ -43,11 +43,17 @@ home assistant效果如下：
 
 
 ## 软件方案
-本项目使用esphome的自定义串口设备功能完成，文档可参考：
+本项目使用esphome开发，使用的技术参考文档：
+
+自定义串口设备：
 
 https://esphome.io/components/uart.html
 
 https://esphome.io/custom/uart.html
+
+4位数码管tm1637：
+
+https://esphome.io/components/display/tm1637.html
 
 ### 使用方法：
 将
