@@ -16,4 +16,5 @@
 本项目使用esphome的自定义串口设备功能完成，文档可参考：
 
 https://esphome.io/components/uart.html
+
 https://esphome.io/custom/uart.html
