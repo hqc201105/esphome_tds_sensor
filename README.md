@@ -9,6 +9,7 @@ home assistant效果如下：
 
 实物如下图所示：
 
+![IMG_20231220_233524](https://github.com/hqc201105/esphome_tds_sensor/assets/84075765/47f2a54a-2c27-402a-aaab-0fe72525267e)
 
 ## 硬件方案
 ### 处理器
