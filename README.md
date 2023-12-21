@@ -28,6 +28,7 @@
 ![image](https://github.com/hqc201105/esphome_tds_sensor/assets/84075765/dc9ced2c-108f-418c-b493-52b14206eb48)
 
 ### 电路图
+![image](https://github.com/hqc201105/esphome_tds_sensor/assets/84075765/32d65f54-2b67-453e-a56c-7a04151b0d81)
 
 
 
