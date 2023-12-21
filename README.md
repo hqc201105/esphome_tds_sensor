@@ -1,4 +1,11 @@
 # esphome_tds_sensor
+本项目可在home assistanct中显示纯水tds值，自来水tds值以及水温，其中纯水tds值刷新时间为1秒，自来水tds值刷新时间为1分钟，效果如下：
+
+![image](https://github.com/hqc201105/esphome_tds_sensor/assets/84075765/b1bb9a78-5a0c-4b4b-ad34-1b9c884fd2b7)
+
+![image](https://github.com/hqc201105/esphome_tds_sensor/assets/84075765/4ef68f76-b085-4a41-978f-f7483fff66c8)
+
+
 
 ## 硬件方案
 ### 处理器
