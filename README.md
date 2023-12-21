@@ -39,7 +39,8 @@ home assistant效果如下：
 ![image](https://github.com/hqc201105/esphome_tds_sensor/assets/84075765/dc9ced2c-108f-418c-b493-52b14206eb48)
 
 ### 电路图
-![image](https://github.com/hqc201105/esphome_tds_sensor/assets/84075765/32d65f54-2b67-453e-a56c-7a04151b0d81)
+![image](https://github.com/hqc201105/esphome_tds_sensor/assets/84075765/9a6c4501-1eb6-4583-9f28-957c1e257529)
+
 
 
 
