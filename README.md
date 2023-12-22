@@ -15,7 +15,7 @@ home assistant效果如下：
 ### 处理器
 使用esp8266 nodemcu
 ### tds模块
-使用的是某宝购买的双路tds传感器模块，样子长这样：
+使用双路tds传感器模块，样子长这样：
 
 ![image](https://github.com/hqc201105/esphome_tds_sensor/assets/84075765/52920817-eca3-4913-9bfd-d3eb19bc6eb8)
 
@@ -30,7 +30,7 @@ home assistant效果如下：
 ![command3](https://github.com/hqc201105/esphome_tds_sensor/assets/84075765/256b87cc-d10d-4485-9297-92a0cb89ed60)
 
 ### 显示模块
-使用某宝购买的4位数码管TM1637模块，样子长这样：
+使用4位数码管TM1637模块，样子长这样：
 
 ![image](https://github.com/hqc201105/esphome_tds_sensor/assets/84075765/6811b185-9e7f-401f-b43a-23e7f28fe1a2)
 
