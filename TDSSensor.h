@@ -55,8 +55,8 @@ class TDSSensorComponent : public Component, public uart::UARTDevice {
 		} else {
 			int channel = receive[3];
 
-			int tds = (receive[4]*255 + receive[5])/20;
-			float temperature = ((float)(receive[6]*255 + receive[7]))/10;
+			int tds = (receive[4]*256 + receive[5])/20;
+			float temperature = ((float)(receive[6]*256 + receive[7]))/10;
 
 			ESP_LOGD("DmsrCustom","channel:%d tds:%d temperature:%f",channel, tds, temperature);
 
